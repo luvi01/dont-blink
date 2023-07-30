@@ -1,2 +1,2 @@
 # dont-blink
-Eye blink poc script
+Eye blink detection poc script
